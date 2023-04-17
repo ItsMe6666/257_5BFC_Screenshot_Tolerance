@@ -6,6 +6,6 @@ pip install pytesseract
 
 1.使用方法:將截圖放在images資料夾後點選[Screenshot_Tolerance_V1.exe]後生成圖片，生成位置在目錄下。
 
-2.編譯指令pyinstaller main.py --onefile -i icon.png
+2.編譯指令pyinstaller main.py --onefile -i ./icon/icon.png
 
 3.已知BUG:未知
