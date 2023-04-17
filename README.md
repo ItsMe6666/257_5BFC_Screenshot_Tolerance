@@ -1,4 +1,4 @@
-![image] (https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(1).png?raw=true)
+![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(1).png)
 
 使用到的OCR庫:pytesseract
 
