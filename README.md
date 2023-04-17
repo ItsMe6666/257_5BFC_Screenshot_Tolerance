@@ -9,9 +9,9 @@ pip install pytesseract
 
 ![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(1).png)
 
-![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(2).png)
+![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(2).PNG)
 
-![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(3).png)
+![image](https://github.com/ItsMe6666/257_5BFC_Screenshot_Tolerance/blob/main/stepimg/Step%20(3).PNG)
 
 2.編譯指令pyinstaller main.py --onefile -i ./icon/icon.png
 
